@@ -6,7 +6,7 @@ permalink: /tutorials/
 
 TODO tutorials layout stuff
 
-  <ul class="post-list">
+<ul class="post-list">
     {% for page in site.pages %}
       {% if page.categories contains "tutorial" %}
       <li>
@@ -17,4 +17,4 @@ TODO tutorials layout stuff
       </li>
       {% endif %}
     {% endfor %}
-  </ul>
+</ul>
