@@ -8,6 +8,8 @@ excerpt: "An interview with programmers working at a telescope"
 
 I recently had an email exchange with a Software Engineer working on one of our local telescopes.
 
+![](https://upload.wikimedia.org/wikipedia/commons/thumb/7/71/The_Keck_Subaru_and_Infrared_obervatories.JPG/1024px-The_Keck_Subaru_and_Infrared_obervatories.JPG)
+
 When I asked him about what tools he and his team use to study the sky, his response was basically a lesson plan from this site:
 
 What do you use for version control?
