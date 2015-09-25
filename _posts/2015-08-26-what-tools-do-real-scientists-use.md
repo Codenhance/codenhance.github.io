@@ -1,8 +1,7 @@
 ---
 layout: post
-title:  "What do the pros use?"
+title:  "What tools do real scientists use?"
 date:   2015-09-22 15:12:07
-categories: tutorial
 excerpt: "An interview with programmers working at a telescope"
 ---
 
