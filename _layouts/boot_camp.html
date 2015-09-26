@@ -1,5 +1,5 @@
 ---
-layout: landing_page
+layout: boot_camp
 ---
 <!DOCTYPE html>
 <!--[if IE 8]> <html lang="en" class="ie8"> <![endif]-->  
@@ -10,24 +10,10 @@ layout: landing_page
 <body data-spy="scroll">
 {% include header.html %}
 {% include promo.html %}
-
-
-<div class="container">
-<div class="post">
-
-  <header class="post-header">
-    <h1 class="post-title">{{ page.title }}</h1>
-  </header>
-
-  <article class="post-content">
-    {{ content }}
-  </article>
-
-{% include get_started.html %}
+{% include boot_camp_pitch_1.html %}
+{% include boot_camp_features.html %}
+{% include boot_camp_description.html %}
 {% include contact.html %}
 {% include footer.html %}
-
-</div>
-</div>
 </body>
 </html> 
