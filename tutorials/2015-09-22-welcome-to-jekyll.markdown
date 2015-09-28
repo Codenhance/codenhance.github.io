@@ -1,9 +1,10 @@
 ---
 layout: page
-title:  "Foo tutorial"
+title:  "TODO"
 date:   2015-09-22 15:12:07
 categories: tutorial
-excerpt: "foo foo foo excerpt"
+excerpt: "TODO"
+published: false
 ---
 
 # TODO
