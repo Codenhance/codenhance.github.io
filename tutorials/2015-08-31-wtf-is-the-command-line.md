@@ -3,7 +3,7 @@ layout: page
 title:  "WTF is the command line?"
 date:   2015-09-22 15:12:07
 categories: tutorial
-excerpt: "tl;dr it is your new best friend"
+excerpt: "TL;DR it is your new best friend"
 ---
 
 The Command Line Interface (CLI) is just a way of controlling your computer. When you use a Graphical User Interface (GUI), you communicate with your machine by moving a mouse, clicking, double-clicking, dragging, scrolling, etc. With the CLI you communicate by typing commands. Generally speaking, the CLI can do anything a GUI can do and more. Here’s a demo of both interfaces at once:
