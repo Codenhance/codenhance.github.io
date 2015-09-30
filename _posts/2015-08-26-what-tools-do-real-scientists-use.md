@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "What tools do real scientists use?"
-date:   2015-09-22 15:12:07
+date:   2015-08-26 8:18:27
 excerpt: "An interview with programmers working at a telescope"
 ---
 

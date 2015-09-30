@@ -11,3 +11,4 @@ github_username: codenhance
 
 # Build settings
 markdown: kramdown
+highlighter: pygments

@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "Resources for beginning Python programmers"
-date:   2015-09-22 15:12:07
+date:   2015-08-25 11:42:08
 excerpt: "Links and suggestions for leveling up fast"
 ---
 
