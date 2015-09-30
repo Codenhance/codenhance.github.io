@@ -12,7 +12,9 @@ layout: post
 {% include header.html %}
 {% include promo.html %}
 
+<section id="docs" class="docs section">
 <div class="container">
+<div class="docs-inner">
 <div class="post">
 
   <header class="post-header">
@@ -24,9 +26,12 @@ layout: post
     {{ content }}
   </article>
 
-</div>
+</div> <!-- post -->
+</div> <!-- docs-inner -->
+{% include get_started.html %}
 {% include contact.html %}
 {% include footer.html %}
-</div>
+</div> <!-- container -->
+</section>
 </body>
 </html> 
