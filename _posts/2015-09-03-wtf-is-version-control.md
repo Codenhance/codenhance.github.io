@@ -2,7 +2,6 @@
 layout: post
 title:  "WTF is version control?"
 date:   2015-09-22 15:12:07
-categories: tutorial
 excerpt: "You need it, you love it, you just might not know it yet"
 ---
 

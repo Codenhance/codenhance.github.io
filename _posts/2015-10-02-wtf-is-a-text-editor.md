@@ -2,7 +2,6 @@
 layout: post
 title:  "WTF is a text editor?"
 date:   2015-09-22 15:12:07
-categories: tutorial
 excerpt: "One of the tools that built this web page. And the Internet."
 published: false
 ---
