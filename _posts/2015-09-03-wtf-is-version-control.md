@@ -1,5 +1,5 @@
 ---
-layout: page
+layout: post
 title:  "WTF is version control?"
 date:   2015-09-22 15:12:07
 categories: tutorial
