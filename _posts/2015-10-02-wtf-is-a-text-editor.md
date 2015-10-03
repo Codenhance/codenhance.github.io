@@ -15,7 +15,7 @@ This is not a trivial subject. [Here](http://www.joelonsoftware.com/articles/Uni
 
 ## Text is everywhere
 
-This web page contains fancy formatting -- headers, links, even *stuff like this*. It was written as plain text, though. [Take a look](TODO).
+This web page contains fancy formatting -- headers, links, even *stuff like this*. It was written as plain text, though. [Take a look](https://raw.githubusercontent.com/Codenhance/codenhance.github.io/master/_posts/2015-10-02-wtf-is-a-text-editor.md).
 
 In fact, every web page you visit is built with HTML, CSS and JavaScript, which are stored in plain text files. Code written in Python (or other languages) is also just plain text. Genetic sequence data is stored as plain text in FASTA files, and genomic structural annotations are stored as plain text in GFF files.
 
