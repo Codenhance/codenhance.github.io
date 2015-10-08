@@ -1,8 +1,7 @@
 ---
-layout: page
+layout: post
 title:  "Clone and run your first program"
 date:   2015-09-22 15:12:07
-categories: tutorial
 excerpt: "Use git and the command line interface to start running Python programs"
 ---
 

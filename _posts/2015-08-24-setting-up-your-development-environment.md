@@ -1,8 +1,7 @@
 ---
-layout: page
+layout: post
 title:  "Setting up your development environment"
 date:   2015-09-22 15:12:07
-categories: tutorial
 excerpt: "A little downloading, a little installing, and a little configuring go a long way"
 published: true
 ---
