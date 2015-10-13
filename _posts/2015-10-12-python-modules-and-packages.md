@@ -77,7 +77,7 @@ The command line program `touch` creates empty files. Use it to make a file call
 
 ## That's it
 
-You just made a Python package containing two modules. They don't do much, but they are laid out and imported is no different from any other package you'll come across.
+You just made a Python package containing two modules. They don't do much, but the way they are laid out and imported is no different from any other package you'll come across.
 
 ## Final challenge
 
