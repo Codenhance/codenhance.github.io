@@ -15,9 +15,13 @@ Sign up for Boot Camp Part 2, an email course which will cover:
 - How to use git and GitHub to code collaboratively
 - More FASTA excitement! 
 
-Click below to sign up.
+The cost of the course is $20. Click "Buy Now" to sign up -- you will be redirected to a PayPal payment page. See you soon!
 
-<div id="my-store-7550347"></div>
-<div>
-<script type="text/javascript" src="https://app.ecwid.com/script.js?7550347&data_platform=code&data_date=2015-10-13" charset="utf-8"></script><script type="text/javascript"> xProductBrowser("categoriesPerRow=3","views=grid(3,3) list(10) table(20)","categoryView=grid","searchView=list","id=my-store-7550347");</script>
+<div class="text-center">
+<form action="https://www.paypal.com/cgi-bin/webscr" method="post" target="_top">
+<input type="hidden" name="cmd" value="_s-xclick">
+<input type="hidden" name="hosted_button_id" value="BMBCLBWH5ZUX4">
+<input type="image" src="https://www.paypalobjects.com/en_US/i/btn/btn_buynowCC_LG.gif" border="0" name="submit" alt="PayPal - The safer, easier way to pay online!">
+<img alt="" border="0" src="https://www.paypalobjects.com/en_US/i/scr/pixel.gif" width="1" height="1">
+</form>
 </div>
