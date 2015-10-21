@@ -97,4 +97,6 @@ To submit my answer, I typed the following:
 
 I copied the "55bcd..." part from the black box on the VimGolf web page corresponding to the challenge. Here's what the `vimgolf` program looks like in action:
 
-TODO animated gif
+<div class="text-center">
+<img src="/assets/vim_golf_demo.gif">
+</div>
