@@ -19,9 +19,11 @@ To play VimGolf, you must have:
 
 If you don't have Vim installed, please start with [this guide](/2015/09/22/setting-up-your-development-environment.html) to setting up your development environment. You'll also get `git` and Anaconda Python out of the deal.
 
-Installing Ruby might seem like a lot of trouble just to play a game, but the process is pretty painless. For Mac users, just use [Homebrew](http://brew.sh/):
+Installing Ruby might seem like a lot of trouble just to play a game, but the process is pretty painless. In fact, Mac users should already have it installed. To double check, type this into your terminal:
 
-`brew install ruby`
+`ruby -v`
+
+If you see a message about what version of Ruby is installed, you're good to go.
 
 On Linux, your package manager should handle it for you. If you have Windows, use [RubyInstaller](http://rubyinstaller.org/).
 
