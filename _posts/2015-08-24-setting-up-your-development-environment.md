@@ -8,6 +8,8 @@ published: true
 
 To start coding with Python, all you really need is Python. But if you want to write code collaboratively, deploy code on servers, and take advantage of high performance computing infrastructure, you'll need a few more tools.
 
+The instructions below ask you to type commands into a terminal, or Command Line Interface. If you're not sure how to do that, check out [this post](http://codenhance.com/2015/09/22/wtf-is-the-command-line.html).
+
 ## Linux
 
 If you're running Linux, there's not much to do. Just install git and vim with your native package manager. On Ubuntu that looks like
@@ -19,6 +21,10 @@ You can get Anaconda Python <a href="http://continuum.io/downloads#all">here</a>
 ## Mac OSX
 
 You're also in luck if you have a Mac. OSX comes with vim already installed, so you just need git and Anaconda. First install Homebrew, a command line program for installing other programs. It's like a hacker version of an app store. You can get it <a href="http://brew.sh/">here</a>.
+
+If you get a "Permission denied" error running the Homebrew installation script, try typing `sudo ` before the command. Next, type your password. *The cursor won't move while you type your password!* This is a security feature, but it also means if you make a mistake you'll probably have to start over :)
+
+Verify that Homebrew is installed by typing `brew -h`. If you get a "Command not found" error, something went wrong and Homebrew is not installed yet. If you see some instructions, you're all set.
 
 Next use Homebrew to install git:
 
@@ -45,3 +51,9 @@ To set up git, I recommend following <a href="https://help.github.com/articles/s
 Vim is extremely configurable. It should work fine without any setup, but if you're feeling ambitious you can install <a href="https://github.com/VundleVim/Vundle.vim">Vundle</a>, a Vim plugin manager. Once it's installed, I recommend installing a tab-completion plugin, like <a href="https://github.com/ervandew/supertab">this one</a>.
 
 That's it, you are ready to code.
+
+## Things to watch out for
+
+- You'll have to type your password to install these programs
+- Your cursor may not move while you're typing your password!
+
