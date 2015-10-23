@@ -22,7 +22,7 @@ Here are the [official docs](https://docs.python.org/2/tutorial/modules.html) if
 Create a directory to hold our entire package, then navigate inside. Create a file called `my_module.py` and define a trivial function.
 
 <div class="text-center">
-<img src="/assets/python_modules/1-create-package-and-module.gif">
+<img src="/assets/python_modules/1-create-package-and-module.gif" alt="Animated gif of creating a Python package and module on the command line">
 </div>
 
 <hr />
@@ -32,7 +32,7 @@ Create a directory to hold our entire package, then navigate inside. Create a fi
 From inside the same directory as your module, test out different ways of importing and running your function. (You can import the module and use a dotted path to access the function, or you can import the function directly. You can use `python -c` to execute a command, or use the `python` interpreter if you prefer.)
 
 <div class="text-center">
-<img src="/assets/python_modules/2-import-and-execute-function.gif">
+<img src="/assets/python_modules/2-import-and-execute-function.gif" alt="Animated GIF of importing and executing a Python function from the command line">
 </div>
 
 <hr />
@@ -40,7 +40,7 @@ From inside the same directory as your module, test out different ways of import
 You can even write a script that imports your function.
 
 <div class="text-center">
-<img src="/assets/python_modules/3-write-and-run-a-script.gif">
+<img src="/assets/python_modules/3-write-and-run-a-script.gif" alt="Animated GIF of writing and running a Python script on the command line using Vim">
 </div>
 
 <hr />
@@ -50,7 +50,7 @@ You can even write a script that imports your function.
 Now make a new directory inside your package directory. Create another module there, this one containing only an assignment statement.
 
 <div class="text-center">
-<img src="/assets/python_modules/4-create-submodule.gif">
+<img src="/assets/python_modules/4-create-submodule.gif" alt="Animated GIF of creating a Python submodule on the command line">
 </div>
 
 <hr />
@@ -60,7 +60,7 @@ Now make a new directory inside your package directory. Create another module th
 Try importing your submodule using a dotted path. It doesn't work!
 
 <div class="text-center">
-<img src="/assets/python_modules/5-get-an-import-error.gif">
+<img src="/assets/python_modules/5-get-an-import-error.gif" alt="Animated GIF of executing Python code that throws an ImportError">
 </div>
 
 <hr />
@@ -70,7 +70,7 @@ Try importing your submodule using a dotted path. It doesn't work!
 The command line program `touch` creates empty files. Use it to make a file called `__init__.py` in your submodule directory. Now the import works!
 
 <div class="text-center">
-<img src="/assets/python_modules/6-add-init-py-to-fix-it.gif">
+<img src="/assets/python_modules/6-add-init-py-to-fix-it.gif" alt="Animated GIF of adding an __init__.py file to a folder to fix a Python ImportError">
 </div>
 
 <hr />
@@ -84,5 +84,5 @@ You just made a Python package containing two modules. They don't do much, but t
 Navigate up one directory -- to the folder containing your package. Try importing `my_module` from here. Why doesn't it work? Can you fix it?
 
 <div class="text-center">
-<img src="/assets/python_modules/7-error-importing-package.gif">
+<img src="/assets/python_modules/7-error-importing-package.gif" alt="Animated GIF of a Python command that throws an ImportError">
 </div>

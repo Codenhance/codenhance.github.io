@@ -11,7 +11,7 @@ A text editor is a program that runs on your computer that allows you to ... edi
 
 This is not a trivial subject. [Here](http://www.joelonsoftware.com/articles/Unicode.html) is the best explanation I've seen; try reading it in a couple of months. For now, just think of "text" or "plain text" as characters you can type with your keyboard, without any fancy formatting.
 
-![](/assets/this_is_plain_text.gif)
+![Image of plain text typed into a terminal](/assets/this_is_plain_text.gif)
 
 ## Text is everywhere
 

@@ -35,7 +35,7 @@ Once you have all the requirements in place, it's time to log in and start playi
 
 Log in with your Twitter account. You should see a black box in the upper right corner of your screen:
 
-![](/assets/vim_golf_key.png)
+![Image of Vim Golf key](/assets/vim_golf_key.png)
 
 Copy the key to your clipboard. Then type the first two commands below it into your terminal. Here's what they do:
 
@@ -47,7 +47,7 @@ This uses Ruby's package manager to install the VimGolf program on your machine.
 
 This lets you save your key so the VimGolf program can handle submitting your entries. Here's what the setup screen looks like:
 
-![](/assets/vim_golf_setup.png)
+![Image of Vim Golf setup screen](/assets/vim_golf_setup.png)
 
 Paste in your key and you're ready to go.
 
@@ -100,5 +100,5 @@ To submit my answer, I typed the following:
 I copied the "55bcd..." part from the black box on the VimGolf web page corresponding to the challenge. Here's what the `vimgolf` program looks like in action:
 
 <div class="text-center">
-<img src="/assets/vim_golf_demo.gif">
+<img src="/assets/vim_golf_demo.gif" alt="Animated GIF of playing Vim Golf on the command line">
 </div>

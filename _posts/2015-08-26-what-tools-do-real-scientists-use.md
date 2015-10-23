@@ -7,7 +7,7 @@ excerpt: "An interview with programmers working at a telescope"
 
 I recently had an email exchange with a Software Engineer working on one of our local telescopes.
 
-![](/assets/observatories.jpg)
+![Observatories on Mauna Kea, Hawai'i](/assets/observatories.jpg)
 
 When I asked him about what tools he and his team use to study the sky, his response was basically a lesson plan from this site:
 

@@ -31,7 +31,7 @@ The alternate possibility is that the interpreter is reading a module that *isn'
 To see `__name__` in action, create a tiny module with a `main()` function that just prints the module's own `__name__` variable, then run it from the command line:
 
 <div class="text-center">
-<img src="/assets/create-a-main-module.gif">
+<img src="/assets/create-a-main-module.gif" alt="Animated GIF of creating a basic Python module">
 </div>
 
 <hr />
@@ -39,7 +39,7 @@ To see `__name__` in action, create a tiny module with a `main()` function that 
 Next, create an equally tiny module that imports your first module and calls that same `main()` function:
 
 <div class="text-center">
-<img src="/assets/create-a-module-that-imports.gif">
+<img src="/assets/create-a-module-that-imports.gif" alt="Animated GIF of creating a Python module that imports another module">
 </div>
 
 <hr />

@@ -8,7 +8,7 @@ excerpt: "You need it, you love it, you just might not know it yet"
 Version control is just a program, like git, that runs on your computer. It allows you to save versions of your code without renaming or copying files and making a mess.
 
 <div class="text-center">
-<img src="/assets/files_that_need_version_control.png" title="Don't do this">
+<img src="/assets/files_that_need_version_control.png" title="Don't do this" alt="Image of a disorganized folder full of similarly-named files">
 </div>
 
 ## Who Cares?
