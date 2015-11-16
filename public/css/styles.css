@@ -53,6 +53,20 @@ a.btn .fa {
 a.btn:focus {
   color: #fff;
 }
+a.btn-cta-red,
+.btn-cta-red {
+  background: #F00;
+  border: 1px solid #F00;
+  color: #fff;
+  font-weight: 600;
+  text-transform: uppercase;
+}
+a.btn-cta-red:hover,
+.btn-cta-red:hover {
+  background: #802A2A;
+  border: 1px solid #802A2A;
+  color: #fff;
+}
 a.btn-cta-primary,
 .btn-cta-primary {
   background: #074f66;
@@ -179,6 +193,7 @@ pre code {
 .header .main-nav .nav .nav-item.last {
   margin-right: 0;
 }
+
 /* ======= Promo Section ======= */
 .promo {
   background: #17baef;
@@ -231,6 +246,14 @@ pre code {
   position: relative;
   top: -5px;
 }
+
+/* ======= Ebook Promo Section ======= */
+.ebook-promo .title {
+  font-size: 64px;
+  color: #074f66;
+  margin-top: 0;
+}
+
 /* ======= About Section ======= */
 .about {
   padding: 80px 0;
