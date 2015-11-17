@@ -36,7 +36,7 @@ date:   2015-09-22 15:12:07
 <hr />
 
 <!-- Button trigger modal -->
-<button type="button" class="btn btn-cta-red btn-lg" data-toggle="modal" data-target="#myModal">
+<button type="button" onClick="ga('send', 'event', 'buttons', 'click', '$9.99 Buy Now');" class="btn btn-cta-red btn-lg" data-toggle="modal" data-target="#myModal">
 $9.99 - Buy Now
 </button>
 
