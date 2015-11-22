@@ -7,7 +7,7 @@ layout: post
 <!--[if !IE]><!--> <html lang="en"> <!--<![endif]-->  
 {% include head.html %}
 <body data-spy="scroll">
-
+{% include facebook-sdk.html %}
 {% include header.html %}
 {% include promo.html %}
 
@@ -24,6 +24,24 @@ layout: post
   <article class="post-content">
     {{ content }}
   </article>
+
+  <!-- Social sharing -->
+  <div class="row">
+  <div class="item col-md-4 col-sm-6 col-xs-12">
+  <!-- Tweet button -->
+  <a href="https://twitter.com/share" class="twitter-share-button"{count} data-via="_bruab_">Tweet</a>
+  <script>!function(d,s,id){var js,fjs=d.getElementsByTagName(s)[0],p=/^http:/.test(d.location)?'http':'https';if(!d.getElementById(id)){js=d.createElement(s);js.id=id;js.src=p+'://platform.twitter.com/widgets.js';fjs.parentNode.insertBefore(js,fjs);}}(document, 'script', 'twitter-wjs');</script>
+  <!-- Facebook like button -->
+  <div
+    class="fb-like"
+    data-href="{{ site.url }}/{{ page.url }}"
+    data-width="450"
+    data-show-faces="true">
+  </div>
+  <!-- Google + share button -->
+  <div class="g-plus" data-action="share" href="{{ site.url }}/{{ page.url }}" data-annotation="none"></div>
+  </div> <!-- item -->
+  </div> <!-- social sharing row -->
 
 </div> <!-- post -->
 </div> <!-- docs-inner -->
