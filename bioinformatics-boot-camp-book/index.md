@@ -1,6 +1,7 @@
 ---
 layout: landing_page_1
 title:  "Bioinformatics Boot Camp Ebook"
+subtitle: "Everything you need to get started -- no experience necessary"
 date:   2015-09-22 15:12:07
 ---
 
