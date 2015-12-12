@@ -1,0 +1,33 @@
+---
+layout: landing_page_2
+---
+<!DOCTYPE html>
+<!--[if IE 8]> <html lang="en" class="ie8"> <![endif]-->  
+<!--[if IE 9]> <html lang="en" class="ie9"> <![endif]-->  
+<!--[if !IE]><!--> <html lang="en"> <!--<![endif]-->  
+{% include head.html %}
+<body data-spy="scroll">
+{% include boot_camp_header.html %}
+{% include learn_command_line_promo.html %}
+
+<section class="docs section">
+<div class="container">
+	<div class="docs-inner">
+			{{ content }}
+	</div> <!-- docs-inner -->
+</div> <!-- container -->
+</section>
+
+{% include command-line-features.html %}
+
+<section class="docs section">
+<div class="container">
+	<div class="docs-inner">
+{% include command-line-mailchimp-form.html %}
+	</div> <!-- docs-inner -->
+</div>
+</section>
+{% include contact.html %}
+{% include footer.html %}
+</body>
+</html> 
