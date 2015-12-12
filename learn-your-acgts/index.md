@@ -23,8 +23,7 @@ date:   2015-09-22 15:12:07
 <ul>
 <li>Identify nucleotide pairing</li>
 <li>Group bases into codons</li>
-<li>Translate codons into amino acids</li>
-<li>Match amino acids to proteins</li>
+<li>Match codons to amino acids</li>
 <li>use cd, cat, head and tail to view genetic data in a terminal environment</li>
 <li>run BLAST</li>
 <li>use python slices to isolate subsequences</li>
