@@ -29,6 +29,8 @@ Craving structured lessons, but held back by a fear of commitment? Supplement yo
 
 The textbook from the above course is available for free online -- take a look <a href="http://www.pythonlearn.com/html-270/">here</a>. It's well written and thorough. This is a great supplement for students who lack the confidence to hack blindly at code without a clue about what it does.
 
+If you'd rather build a game, I highly recommend checking out Al Sweigart's free <a href="http://inventwithpython.com/chapters/">Invent with Python</a> textbook. I haven't used it personally, but two students in one of my classes managed to build <em>amazing</em> games while picking up on plenty of Python fundamentals just by following this text.
+
 ## Fix It
 
 If you're writing and running code, you're breaking code. This is not a failure to be avoided -- it's how stuff gets built, and how you learn to build stuff. When you get a nasty error message, take it to a search engine and cross your fingers that one of the top answers is from <a href="http://stackoverflow.com/">Stack Overflow</a>. This question-and-answer site collects issues, bugs, workarounds and wisdom from tens of thousands of developers. 
