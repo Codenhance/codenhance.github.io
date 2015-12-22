@@ -14,7 +14,7 @@ Instead of forcing students to spend $150 on a dry textbook and type through exa
 
 ## Open source textbooks
 
-Help for the beginners in the class came in the form of Charles Severance's [Python for Informatics](http://www.pythonlearn.com/html-270/) book (CC BY-NC-SA 3.0). This is the same textbook used in Coursera's "Programming for Everybody" course. Not every student needed such a gentle introduction to the language, but I offered points to any student who typed the code examples from the book and blogged about what they learned.
+Help for the beginners in the class came in the form of Charles Severance's [Python for Informatics](http://www.pythonlearn.com/html-270/) book (CC BY-NC-SA 3.0). This is the same textbook used in Coursera's "Programming for Everybody" course. Not every student needed such a gentle introduction to the language, and I offered points to any student who typed the code examples from the book and blogged about what they learned.
 
 More experienced programmers who wanted a different kind of introduction to Python were able to jump right in to game programming thanks to the GPL-licensed [Pygame](http://www.pygame.org) module and Al Sweigart's textbook [Invent Your Own Computer Games with Python](http://inventwithpython.com/chapters/) (CC BY-NC-SA 3.0). The students who opted for this approach got points for typing example code from the textbook, and eventually learned to modify the code to create their own games.
 
