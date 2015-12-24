@@ -4,19 +4,23 @@ title:  "The Open Source Classroom"
 date:   2015-12-16 15:12:07
 ---
 
-I completed a Master's degree in Information and Computer Science last summer, and started teaching my first university class (Python Programming) about two weeks later. I'm a self-taught programmer who mostly learned on the job. I've never taken a Python class. To add to the fun, my students ranged from true beginners who had never written a line of code to experienced programmers looking to try out a new language. By rights I should have been doomed from the start.
+If you're looking to teach, tutor, or mentor beginning programmers, you've got your work cut out for you. Different learning styles, varying levels of knowledge, and a subject area which is a moving target all conspire to see you run ragged as an instructor. Luckily, there is help available -- lots of help. It comes in the form of open source textbooks, tools, and even games, all created to make being a teacher (and a learner) easier than ever before.
 
-## Open source saved my life
+A bit of context: I completed a Master's degree in Information and Computer Science last summer, and started teaching my first university class (Python Programming) about two weeks later. I'm a self-taught programmer who mostly learned on the job. I've never taken a Python class. To add to the fun, my students ranged from true beginners who had never written a line of code to experienced programmers trying out a new language. By rights I should have been doomed from the start.
 
-Despite the challenges presented by my students' diversity of experience and interests, we managed to get through the semester with a minimum of soul-crushing boredom, and several students even learned some Python along the way. This was facilitated entirely by the wealth of open source educational materials and tools available in the Python universe. 
+## Open source courseware to the rescue
 
-Instead of forcing students to spend $150 on a dry textbook and type through examples that confuse half of the class while boring the other half to tears, I was able to lift the textbook requirement entirely. Instead of one overpriced book, the class used several high-quality, up-to-date, *free* books. Instead of trudging through the same old "implement a linked list" or "build a library lending app" examples that so failed to inspire me during my own education, I was able to assign students tasks like "simulate a galaxy," "design primers for a biological experiment," "make a platformer video game," or "build a web service."
+Despite the challenges presented by my students' diversity of experience and interests, we managed to get through the semester with a minimum of soul-crushing boredom. This was facilitated entirely by the wealth of open source educational materials and tools available in the Python universe. 
 
-## Open source textbooks
+Just like open source software, open source courseware refers to books, tutorials, games and quizzes that are free to use, share, and even modify. There are a number of open source licenses avaialble to creators of content, including  the [GNU Public License](http://opensource.org/licenses/gpl-license), the [MIT](http://opensource.org/licenses/MIT) and [BSD](http://opensource.org/licenses/BSD-2-Clause) licenses, and several variations of the [Creative Commons](https://creativecommons.org/licenses/) license. They vary in what they permit, but what's important is that they're _all_ free to use in your classroom.
 
-Help for the beginners in the class came in the form of Charles Severance's [Python for Informatics](http://www.pythonlearn.com/html-270/) book (CC BY-NC-SA 3.0). This is the same textbook used in Coursera's "Programming for Everybody" course. Not every student needed such a gentle introduction to the language, and I offered points to any student who typed the code examples from the book and blogged about what they learned.
+Instead of forcing students to spend $150 on a dry textbook and type through examples that confuse half of the class while boring the other half to tears, I was able to lift the textbook requirement entirely. Instead of one overpriced book, the class used several high-quality, up-to-date, _free_ books. Instead of trudging through the same old "implement a linked list" or "build a library lending app" examples that so failed to inspire me during my own education, I was able to assign students tasks like "simulate a galaxy," "design primers for a biological experiment," "make a platformer video game," or "build a web service."
 
-More experienced programmers who wanted a different kind of introduction to Python were able to jump right in to game programming thanks to the GPL-licensed [Pygame](http://www.pygame.org) module and Al Sweigart's textbook [Invent Your Own Computer Games with Python](http://inventwithpython.com/chapters/) (CC BY-NC-SA 3.0). The students who opted for this approach got points for typing example code from the textbook, and eventually learned to modify the code to create their own games.
+## Open source Python textbooks
+
+Help for the beginners in the class came in the form of Charles Severance's [Python for Informatics](http://www.pythonlearn.com/html-270/) book (Creative Commons license). This is the same textbook used in Coursera's "Programming for Everybody" course.  I offered points to any student who typed the code examples from the book and blogged about what they learned.
+
+More experienced programmers who wanted a different kind of introduction to Python were able to jump right in to game programming thanks to the GPL-licensed [Pygame](http://www.pygame.org) module and Al Sweigart's Creative Commons-licensed textbook [Invent Your Own Computer Games with Python](http://inventwithpython.com/chapters/). The students who opted for this approach got points for typing example code from the textbook, and eventually learned to modify the code to create their own games.
 
 ## Open source libraries and docs
 
@@ -49,10 +53,12 @@ Python doesn't happen in a vacuum, and familiarity with the programming environm
 - [VimGolf](http://vimgolf.com/) is a command line tool and website which implements a competitive game that helps Vim users of all levels improve their efficiency.
 - [learnGitBranching](http://pcottle.github.io/learnGitBranching/) is a rich, thorough, interactive web app that covers beginning and intermediate git commands with beautiful visualizations and encouraging feedback. I refuse to teach programming without requiring version control, so this was a priceless resource. It beats lecturing for hours on end about git!
 
-## Results
+Version control in particular is a complicated topic that rewards deep study. For students who need more than a web game to get the hang of it, there is the Creative Commons-licensed [Pro Git](https://git-scm.com/book/en/v2) textbook by Scott Chacon and Ben Straub, available to read free online.
 
-The open source classroom achieved mixed results. For more advanced students, it was a huge success. They generally appreciated the opportunity to explore their own interests rather than being tied to the examples in a single textbook, and felt as though they received a solid introduction to Python. Beginners were less enthusiastic, in some cases complaining of feeling overwhelmed or confused. 
+## Lessons learned
 
-In the future, I may attempt to identify students incapable of self-directed study so I can simply push them through a single textbook. However, I think that feeling overwhelmed and confused is a natural response to entering into a world as diverse, rich, and full of possibility as the open source Python universe. It *is* overwhelming to think that there are nearly a million Python projects on [GitHub](https://github.com/search?utf8=%E2%9C%93&q=language%3APython&type=Repositories&ref=advsearch&l=Python&l=), and it's a bit confusing to think that one language can power websites, games, and spaceships. 
+The open source classroom achieved mixed results. For more advanced students, it was a huge success. They appreciated the opportunity to explore their own interests rather than being tied to the examples in a single textbook, and felt as though they received a solid introduction to Python. Beginners were less enthusiastic, in some cases complaining of feeling overwhelmed or confused. 
 
-Making sense of the open source landscape may simply require more than a semester's worth of effort, but I think every student left with a clear idea of just how many resources are out there, and how much power they offer us.
+Perhaps this was a weak point of the class, but perhaps feeling overwhelmed and confused is a natural response to entering into a world as diverse and full of possibility as the open source Python universe. It _is_ overwhelming to think that there are nearly a million Python projects on [GitHub](https://github.com/search?utf8=%E2%9C%93&q=language%3APython&type=Repositories&ref=advsearch&l=Python&l=), and it's a bit confusing to think that one language can power websites, games, and spaceships. 
+
+Making sense of the open source landscape may simply require more than a semester's worth of effort, but every student left with a clear idea of just how many great resources are out there, and how much power they offer us. The days of being tied to one textbook are gone, and good riddance! Open source courseware allows instructors and learners to design a rich, customized, interactive learning experience, all for free. Now let's write some code!
