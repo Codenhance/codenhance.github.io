@@ -1,7 +1,6 @@
 ---
 layout: post
-title:  "Learn the Command Line ... "
-highlighted: "for Science!"
+title:  "Bashy"
 date:   2015-09-22 15:12:07
 ---
 
