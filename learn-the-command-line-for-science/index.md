@@ -20,9 +20,9 @@ Learning the command line is a requirement for scientific computing, and it's al
 
 If you'd like to see this course become a reality, I need your help! Here's what you can do:
 
-1. Back the project on Kickstarter. There are funding levels starting as low as $5.
+1. Back the project on Kickstarter. There are funding levels starting as low as $5. [Note: coming soon, just need a URL]
 
-2. Share on social media. Tweet or share a link on Facebook to let your network know about the class!
+2. Share on social media. Tweet or share a link on Facebook to let your network know about the class! [Note: coming soon, just need a URL]
 
 3. Join the mailing list for updates. Scroll down and enter your email address and I'll keep you up on the latest developments.
 
