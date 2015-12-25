@@ -15,3 +15,17 @@ Learning the command line is a requirement for scientific computing, and it's al
 
 <div class="text-center">
 <img src="/assets/cli_gui_demo.gif" alt="Animated gif of a command line interface demo"></div>
+
+## 3 ways to help
+
+If you'd like to see this course become a reality, I need your help! Here's what you can do:
+
+1. Back the project on Kickstarter. There are funding levels starting as low as $5.
+
+2. Share on social media. Tweet or share a link on Facebook to let your network know about the class!
+
+3. Join the mailing list for updates. Scroll down and enter your email address and I'll keep you up on the latest developments.
+
+Thanks!
+
+--Brian
