@@ -33,7 +33,31 @@ Even better, all of these texts are free to read online.
 
 It's not just the learning materials that make Python such a great choice for scientists learning to code. There's also a wealth of free packages, tools, and documentation for every field of science you can imagine.
 
-For astronomers, there's Astropy, which contains modules for astronomical [constants](http://docs.astropy.org/en/stable/constants/index.html), [coordinate systems](http://docs.astropy.org/en/stable/coordinates/index.html), [model fitting](http://docs.astropy.org/en/stable/modeling/index.html), and more. Each of the preceding links points to a page with sample code that even a novice can follow in order to get familiar with the package.
+For astronomers, there's Astropy, which contains modules for astronomical [constants](http://docs.astropy.org/en/stable/constants/index.html), [coordinate systems](http://docs.astropy.org/en/stable/coordinates/index.html), [model fitting](http://docs.astropy.org/en/stable/modeling/index.html), and more. As an example, here's a script that downloads a [FITS](https://en.wikipedia.org/wiki/FITS) file containing spectral data on the [Horsehead Nebula](https://en.wikipedia.org/wiki/Horsehead_Nebula) and plots it. Five imports and five lines of code are all it takes:
+
+{% highlight python %}
+import numpy as np
+import matplotlib
+import matplotlib.pyplot as plt
+
+from astropy.utils.data import download_file
+from astropy.io import fits
+
+image_file = download_file(
+             'http://data.astropy.org/tutorials/FITS-images/HorseHead.fits', 
+	     cache=True)
+image_data = fits.getdata(image_file)
+
+plt.imshow(image_data, cmap='gray')
+plt.colorbar()
+plt.show()
+{% endhighlight %}
+
+Here's what the image looks like:
+
+![Astropy-generated image of Horsehead Nebula](/assets/horsehead_nebula.png)
+
+The full tutorial is [here](http://www.astropy.org/astropy-tutorials/FITS-images.html) if you want to do more!
 
 For biologists, there's [Biopython](http://biopython.org/wiki/Biopython). Want to [read genetic sequence data](http://biopython.org/DIST/docs/tutorial/Tutorial.html#htoc48)? [Parse BLAST output](http://biopython.org/DIST/docs/tutorial/Tutorial.html#htoc85)? [Read from a protein database](http://biopython.org/DIST/docs/tutorial/Tutorial.html#htoc135)? [Produce a random genome](http://biopython.org/DIST/docs/tutorial/Tutorial.html#htoc281)? Biopython's got you covered.
 
@@ -42,6 +66,8 @@ There are also a number of tools that are useful for all scientists, regardless 
 ## The universe will thank you for using Python
 
 Python is an open source language*, and so are the libraries mentioned above. As a scientist, this should matter to you. Using open source tools that are widely available is a great way to ensure that your experiments are easily reproducible.
+
+![Open Source Initiative Logo](https://upload.wikimedia.org/wikipedia/commons/4/4d/Opensource.gif)
 
 Compare this with the experience of a researcher who would like to extend your experiment, but must first purchase an expensive license in order to recreate your programming environment. This is exactly the case in much of astronomy, with many legacy projects locked into the proprietary IDL language. Working astronomers are largely migrating to Python in order to facilitate collaboration. It's the future!
 
