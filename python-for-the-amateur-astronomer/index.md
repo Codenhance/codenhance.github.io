@@ -6,24 +6,25 @@ date:   2015-12-16 15:12:07
 
 ## About astronomy
 
-- WTF do astronomers do all day
+- WTF do astronomers do all day anyway?
+- Where to get astro data and what it looks like when you get it (FITS format)
 
 ## Python use in astronommy
 
-- IDL, Python, etc. link to my interview with guy (?)
-- I live on BI nbd, these guys python all day long
+- IDL vs Python (legacy vs newcomer, proprietary vs open source)
+- Specific example: Subaru Telescope base station (a mile from my house) uses Python extensively
 
 ## Getting started with astropy
 
-- download and make a pretty picture
-- do something else idk
+- download a nebula and make a pretty picture
+- do something else TODO
 
-## Vispy
+## Trying out Vispy
 
-- run test code
-- do a thing?
+- run spiral galaxy simulation and modify it
+- do something else TODO
 
 ## What to do next
 
-- wilfred's project
+- Crowdsourced citizen science astro project (I know the guy, but I forgot the name)
 - other projects TODO
