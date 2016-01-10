@@ -7,7 +7,9 @@ date:   2015-12-16 15:12:07
 ## About astronomy
 
 - WTF do astronomers do all day anyway?
+  - Observational and theoretical
 - Where to get astro data and what it looks like when you get it (FITS format)
+  - http://fits.gsfc.nasa.gov/fits_samples.html has a list
 
 ## Python use in astronommy
 
@@ -16,13 +18,15 @@ date:   2015-12-16 15:12:07
 
 ## Getting started with astropy
 
+- This is attrib only: http://astropy4mpik.readthedocs.org/en/latest/fits.html (more short and sweet)
+- This is astropy, so BSD? http://www.astropy.org/astropy-tutorials/FITS-images.html (does more stuff, should prolly use this)
 - download a nebula and make a pretty picture
-- do something else TODO
+- wanna go further? do you math? check out this tutorial and exercise set on Quantities http://www.astropy.org/astropy-tutorials/Quantities.html
 
 ## Trying out Vispy
 
-- run spiral galaxy simulation and modify it
-- do something else TODO
+- run spiral galaxy simulation and modify it. BSD license: https://github.com/vispy/vispy/blob/master/examples/demo/gloo/galaxy.py
+- wanna X? check out Y.
 
 ## What to do next
 
