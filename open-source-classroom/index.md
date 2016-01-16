@@ -12,6 +12,8 @@ A bit of context: I completed a Master's degree in Information and Computer Scie
 
 Despite the challenges presented by my students' diversity of experience and interests, we managed to get through the semester with a minimum of soul-crushing boredom. This was facilitated entirely by the wealth of open source educational materials and tools available in the Python universe. 
 
+<div class="text-center"><img src="/assets/open_source_initiative_logo.png" alt="Open Source Initiative logo"></div>
+
 Just like open source software, open source courseware refers to books, tutorials, games and quizzes that are free to use, share, and even modify. There are a number of open source licenses avaialble to creators of content, including  the [GNU Public License](http://opensource.org/licenses/gpl-license), the [MIT](http://opensource.org/licenses/MIT) and [BSD](http://opensource.org/licenses/BSD-2-Clause) licenses, and several variations of the [Creative Commons](https://creativecommons.org/licenses/) license. They vary in what they permit, but what's important is that they're _all_ free to use in your classroom.
 
 Instead of forcing students to spend $150 on a dry textbook and type through examples that confuse half of the class while boring the other half to tears, I was able to lift the textbook requirement entirely. Instead of one overpriced book, the class used several high-quality, up-to-date, _free_ books. Instead of trudging through the same old "implement a linked list" or "build a library lending app" examples that so failed to inspire me during my own education, I was able to assign students tasks like "simulate a galaxy," "design primers for a biological experiment," "make a platformer video game," or "build a web service."
@@ -33,6 +35,15 @@ For the science majors, there are several options, including the following BSD-l
 - [Astropy](http://www.astropy.org/), which contains modules (and sample code) for astronomical [constants](http://docs.astropy.org/en/stable/constants/index.html), [coordinate systems](http://docs.astropy.org/en/stable/coordinates/index.html), [model fitting](http://docs.astropy.org/en/stable/modeling/index.html), and more. 
 - [Bokeh](http://bokeh.pydata.org/en/latest/), a visualization library. The documentation is extensive (and beautiful). Any scientist or science major should be able to acquire some interesting test data in her field, and if she can do that, she can turn it into a gorgeous graph just by following the Bokeh examples.
 - [Vispy](http://vispy.org/), yet another visualization library which ships with a number of complex, impressive example projects. One beginner was able to find, run, read, comprehend and successfully modify a 3D spiral galazy simulation. How many of you did something that cool in your first semester coding?
+
+<figure>
+<div class="text-center">
+<img src="/assets/command_line_galaxy.gif" alt="Galaxy simulation from Vispy package">
+<figcaption>Galaxy simulation from <a href="http://vispy.org/">Vispy</a> package</figcaption>
+</div>
+</figure>
+
+<hr />
 
 While the scientists crunched data in one corner, a number of students interested in learning about web technologies were able to build their own relevant projects, thanks to these great resources:
 
