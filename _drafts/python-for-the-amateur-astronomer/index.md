@@ -15,7 +15,7 @@ Observational astronomers run the telescopes. There's a great deal of code invol
 
 The theoretical work of astronomy involves making sense of huge amounts of image data. Images are filtered and TODO to compensate for known distorting forces. Spectra are analyzed and compared to known TODO. Models are built to explain observed phenomena, then tested and either improved or discarded. 
 
-## Python in astronommy
+## Python in astronomy
 
 Astronomers have been solving these problems with code long before Python came on the scene. Historically, the most common language for astronomy has been [IDL](http://www.exelisvis.com/ProductsServices/IDL.aspx) -- a powerful vector programming language first released in 1977. It's got a large scientific library available and it's been the standard for a long enough time at enough research facilities that it's pretty well entrenched.
 
