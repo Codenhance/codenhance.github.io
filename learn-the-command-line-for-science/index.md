@@ -5,27 +5,16 @@ highlighted: "for Science!"
 date:   2015-09-22 15:12:07
 ---
 
-## A complete video course 
+## Learn the Command Line ... for Science!
 
-I'm creating this course for scientists and science majors who have no programming experience. Or whose programming experience has left them feeling frustrated and empty.
+Early access to the Kickstarter-funded video course is now available! You'll get:
 
-Learning the command line is a requirement for scientific computing, and it's also the gateway to *finally* understanding how your computer works. It's the first step toward crunching your own data and building your own computational tools. And it's _fun_.
+- Immediate access to the student community
+- Lessons as they're released
+- Lifetime access to the course once it's finished
 
-<hr />
-
-<div class="text-center">
-<img src="/assets/cli_gui_demo.gif" alt="Animated gif of a command line interface demo"></div>
-
-## 3 ways to help
-
-If you'd like to see this course become a reality, I need your help! Here's what you can do:
-
-1. Back the project on Kickstarter. There are funding levels starting as low as $5. [Note: coming soon, just need a URL]
-
-2. Share on social media. Tweet or share a link on Facebook to let your network know about the class! [Note: coming soon, just need a URL]
-
-3. Join the mailing list for updates. Scroll down and enter your email address and I'll keep you up on the latest developments.
-
-Thanks!
-
---Brian
+<div data-embed_type="product" data-shop="learn-the-command-line-for-science.myshopify.com" data-product_name="Learn the Command Line ... for Science! Video Course" data-product_handle="learn-the-command-line-for-science-video-course" data-has_image="true" data-display_size="compact" data-redirect_to="checkout" data-buy_button_text="Early Access" data-buy_button_out_of_stock_text="Out of Stock" data-buy_button_product_unavailable_text="Unavailable" data-button_background_color="17baef" data-button_text_color="ffffff" data-product_modal="false" data-product_title_color="000000" data-next_page_button_text="Next page"></div>
+<script type="text/javascript">
+document.getElementById('ShopifyEmbedScript') || document.write('<script type="text/javascript" src="https://widgets.shopifyapps.com/assets/widgets/embed/client.js" id="ShopifyEmbedScript"><\/script>');
+</script>
+<noscript><a href="https://learn-the-command-line-for-science.myshopify.com/cart/14587115911:1" target="_blank">Buy Learn the Command Line ... for Science! Video Course</a></noscript>
