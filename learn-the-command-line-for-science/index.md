@@ -5,6 +5,10 @@ highlighted: "for Science!"
 date:   2015-09-22 15:12:07
 ---
 
+<div class="text-center">
+<img src="/assets/kickstarter-image.png" width="80%">
+</div>
+
 # Early access to the video course
 
 Early access to the Kickstarter-funded video course is now available! You'll get:
