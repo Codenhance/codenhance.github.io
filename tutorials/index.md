@@ -4,8 +4,6 @@ title: Tutorials
 permalink: /tutorials/
 ---
 
-Here's a grab bag of topics. For a more organized approach, try a free [email course](#get_started).
-
 <ul class="post-list">
 {% for page in site.pages %}
 {% if page.categories contains "tutorial" %}
